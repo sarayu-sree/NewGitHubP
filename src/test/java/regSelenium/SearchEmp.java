@@ -46,7 +46,8 @@ public class SearchEmp {
 		
 			System.out.println("results");
 		}
-		//else System.out.println("Nothing");
+		
+		System.out.println("Checkpoint");
 		
 		driver.close();
 	}
